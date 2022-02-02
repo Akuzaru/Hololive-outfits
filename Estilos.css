@@ -1,0 +1,135 @@
+body {
+    background-color: #9dd1e1;
+    margin-top: 15px;
+    width: 96%
+}
+
+#top {
+    background-color: whitesmoke;
+    margin-left: 7px;
+    margin-right: 7px;
+    border-right: 7px solid gray;
+    border-left: 7px solid gray;
+    border-top: 10px solid gray;
+    padding-left: 35px;
+}
+
+.text_top {
+    font: bold 40px arial;
+    margin-top: 30px;
+    display: inline-block;
+    width: auto;
+}
+
+#hololive {
+    height: 37px;
+    display: inline-block;
+}
+
+div {
+    background: #85C1E9;
+    margin-top: 0px;
+    margin-right: 7px;
+    margin-left: 7px;
+    margin-bottom: 14px;
+    padding: 35px;
+    padding-top: 0px;
+    border: 7px solid gray;
+}
+
+header {
+    border-bottom: 2px solid #999999;
+}
+
+header, footer {
+    display: block;
+}
+
+h3 {
+    font: bold 20px helvetica;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+    width: 85%
+}
+
+p {
+    font-family: sans-serif;
+    width: 85%; 
+}
+
+a {
+    font: bold 17px italic;
+    text-decoration: none;
+}
+
+#title {
+    font: bold 25px verdana;
+    margin-bottom: 10px;
+}
+
+#wikiM {
+    color: #A93226;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#wikiK {
+    color: #CA6F1E;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#wikiI {
+    color: blueviolet;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#wikiG {
+    color: #2471A3;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#wikiW {
+    color: #B7950B;
+    font-family: sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.intro_Mem {
+    display: inline-block;
+    width: 85%
+}
+
+.site_logos {
+    text-align: center;
+    border: 1px solid green;
+    height: 80px;
+    width: 7%;
+    float: right;
+    margin-right: 50px;
+}
+
+.logoMem {
+    height: 100%;
+}
+
+.site_outfits {
+    margin: auto;
+    text-align: center;
+    border: 1px solid green;
+    display: inline-block;
+    height: 600px;
+    width: 95%;
+}
+
+.outfit {
+    height: 100%;
+    text-align: center;
+}
+
+* {
+    border: 1px solid green;
+}
